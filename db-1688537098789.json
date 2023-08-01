@@ -1,0 +1,74 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "email": "user1@testmail.com",
+      "password": "123"
+    },
+    {
+      "id": 2,
+      "email": "user2@testmail.com",
+      "password": "1234"
+    },
+    {
+      "id": 3,
+      "email": "user3@testmail.com",
+      "password": "12345"
+    },
+    {
+      "id": 4,
+      "email": "user4@testmail.com",
+      "password": "123456"
+    },
+    {
+      "email": "kavinder@gmail.com",
+      "password": "kavi123",
+      "id": 5
+    },
+    {
+      "email": "hello@gmail.com",
+      "password": "1234",
+      "id": 6
+    },
+    {
+      "email": "kaviyadav21@gmail.com",
+      "password": "123321",
+      "id": 7
+    },
+    {
+      "email": "kavinder12@gmail.com",
+      "password": "1221",
+      "id": 8
+    },
+    {
+      "email": "kaviy@gmail.com",
+      "password": "12211221",
+      "id": 9
+    },
+    {
+      "email": "kaviy@gmail.com",
+      "password": "12211221",
+      "id": 10
+    },
+    {
+      "email": "kaviy@gmail.com",
+      "password": "12211221",
+      "id": 11
+    },
+    {
+      "email": "kaviy@gmail.com",
+      "password": "3211",
+      "id": 12
+    },
+    {
+      "email": "kaviy121@gmail.com",
+      "password": "12211221",
+      "id": 13
+    },
+    {
+      "email": "kaviy705@gmail.com",
+      "password": "121212",
+      "id": 14
+    }
+  ]
+}
